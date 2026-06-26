@@ -6,9 +6,9 @@ tags: ["react", "animation", "motion", "modal-product-1"]
 featured: false
 draft: false
 images:
-  - "https://picsum.photos/seed/card1/400/500"
-  - "https://picsum.photos/seed/card2/400/500"
-  - "https://picsum.photos/seed/card3/400/500"
+  - "https://picsum.photos/seed/card121/400/500"
+  - "https://picsum.photos/seed/card20/400/500"
+  - "https://picsum.photos/seed/card30/400/500"
   - "https://picsum.photos/seed/card4/400/500"
 ---
 

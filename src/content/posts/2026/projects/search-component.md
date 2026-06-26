@@ -6,7 +6,7 @@ tags: ["react", "search", "ux", "modal-product-3"]
 featured: false
 draft: false
 images:
-  - "https://picsum.photos/seed/search1/400/400"
+  - "https://picsum.photos/seed/search10/400/400"
 ---
 
 Implementing instant search for a static blog without a backend.
