@@ -5,6 +5,9 @@ description: "The definitive guide to building good habits and breaking bad ones
 tags: ["books", "productivity", "self-improvement", "2025-read-evergreen"]
 featured: false
 draft: false
+images:
+  - src: "https://upload.wikimedia.org/wikipedia/commons/0/06/Atomic_habits.jpg"
+    orientation: portrait
 ---
 
 James Clear's framework for habit formation has fundamentally changed how I approach personal growth.

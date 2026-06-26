@@ -5,6 +5,9 @@ description: "A groundbreaking exploration of the two systems that drive how we 
 tags: ["books", "psychology", "decision-making", "2025-read-evergreen"]
 featured: false
 draft: false
+images:
+  - src: "https://upload.wikimedia.org/wikipedia/en/c/c1/Thinking%2C_Fast_and_Slow.jpg"
+    orientation: portrait
 ---
 
 Nobel laureate Daniel Kahneman reveals the fascinating—and often flawed—ways our minds work.

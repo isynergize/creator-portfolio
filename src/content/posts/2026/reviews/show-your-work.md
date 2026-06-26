@@ -5,6 +5,9 @@ description: "10 ways to share your creativity and get discovered. Perfect for a
 tags: ["books", "creativity", "career", "2025-read-evergreen"]
 featured: false
 draft: false
+images:
+  - src: "https://upload.wikimedia.org/wikipedia/commons/7/77/Austin_kleon_2014.jpg"
+    orientation: portrait
 ---
 
 Austin Kleon makes the case for sharing your process, not just your finished products.
