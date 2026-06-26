@@ -6,7 +6,7 @@ tags: ["nextjs", "tailwind", "theming", "modal-product-2"]
 featured: false
 draft: false
 images:
-  - "https://picsum.photos/seed/theme1/400/400"
+  - "https://plus.unsplash.com/premium_photo-1720032305135-a87c5e0888b6?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ---
 
 Building a robust theme system that respects user preferences while providing manual override options.

@@ -5,6 +5,8 @@ description: "The updated edition of the timeless guide to software craftsmanshi
 tags: ["books", "engineering", "best-practices", "currently-reading"]
 featured: false
 draft: false
+images:
+ - 'https://upload.wikimedia.org/wikipedia/en/8/8f/The_pragmatic_programmer.jpg'
 ---
 
 Re-reading this classic with fresh eyes after a decade in the industry.
