@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { Carrois_Gothic_SC, Geist_Mono, Playwrite_US_Trad } from 'next/font/google';
+import { Carrois_Gothic_SC, Comme, Playwrite_US_Trad } from 'next/font/google';
 import { ThemeProvider } from '@/components/ThemeProvider';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
@@ -11,8 +11,8 @@ const carrois = Carrois_Gothic_SC({
   weight: '400',
 });
 
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
+const comme = Comme({
+  variable: '--font-comme',
   subsets: ['latin'],
 });
 
@@ -88,7 +88,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${carrois.variable} ${geistMono.variable} ${playwrite.variable} antialiased min-h-screen`}
+        className={`${carrois.variable} ${comme.variable} ${playwrite.variable} antialiased min-h-screen`}
       >
         <ThemeProvider>
           <Header />

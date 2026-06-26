@@ -38,8 +38,8 @@ nutrition:
   sugarContent: "12g"
   proteinContent: "2g"
 images:
-  - src: "https://picsum.photos/seed/card1/400/500"
-    orientation: portrait
+  - src: "https://picsum.photos/seed/card15/600/400"
+    orientation: landscape
   - src: "https://picsum.photos/seed/card2/600/400"
     orientation: landscape
   - src: "https://picsum.photos/seed/card3/400/500"

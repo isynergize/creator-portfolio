@@ -10,7 +10,7 @@ Next.js 16 portfolio with Tailwind CSS v4, React 19, and motion animations. Cont
 
 - **Display font**: Playwrite US Trad (name, section titles)
 - **Body font**: Carrois Gothic SC (small caps aesthetic)
-- **Mono font**: Geist Mono (code blocks)
+- **Mono font**: Comme (code blocks)
 
 ## Current State [2026-01-26]
 
